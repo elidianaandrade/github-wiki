@@ -14,5 +14,10 @@ export default createGlobalStyle`
     body {
         background-color: var(--gray-600);
         color: var(--white);
+        font-family: 'Arial';
+    }
+
+    a {
+        text-decoration: none;
     }
 `
